@@ -12,9 +12,9 @@ body {
 }
 
 #main-container {
-    width: 80%;
+    width: 100%;
     height: 100vh;
-    min-width: 180px;
+    min-width: 220px;
 }
 
 .centered-flex {
@@ -24,7 +24,7 @@ body {
 }
 
 .form-container {
-    width: 300px;
+    width: 400px;
     display: flex;
     position: relative;
     align-items: center;
